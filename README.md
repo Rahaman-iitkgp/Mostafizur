@@ -3,7 +3,6 @@
 <h4> Chair, IEEE YP Affinity Group, Kharagpur Section [JAN. 2019 - DEC. 2019]</h4>
 <h4> Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019]</h4>
 <h4> Research Assistant (JPO/JPA), Sponsred by Airbus, France [SEP 2016 - Present]</h4>
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -46,7 +45,7 @@
 </head>
 <body>
 
-<h2>Style Social Media Buttons</h2>
+<h4>Link to my Social Profiles</h4>
 
 <!-- Add font awesome icons -->
 <a href="#" class="fa fa-google"></a>
