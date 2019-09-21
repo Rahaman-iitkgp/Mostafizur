@@ -1,4 +1,4 @@
-<h4> Mostafizur Rahaman Laskar </h4>
+<h2> Mostafizur Rahaman Laskar </h2>
 <h4> Master of Science (MS) Scholar at Indian Institute of Technology, Kharagpur [Jan. 2018- Jun. 2020 (Expected)]</h4>
 <h4> Chair, IEEE YP Affinity Group, Kharagpur Section [JAN. 2019 - DEC. 2019]</h4>
 <h4> Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019]</h4>
@@ -49,7 +49,7 @@
 
 <!-- Add font awesome icons -->
 <a href="#" class="fa fa-google"></a>
-<a href="#" class="fa fa-linkedin"></a>
+<a href="https://www.linkedin.com/in/mostafizur-rahaman-0698b3a6/" class="fa fa-linkedin"></a>
 <a href="#" class="fa fa-youtube"></a>
 <a href="#" class="fa fa-instagram"></a>
       
