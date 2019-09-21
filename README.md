@@ -48,9 +48,10 @@
 <h4>Link to my Social Profiles</h4>
 
 <!-- Add font awesome icons -->
-<a href="#" class="fa fa-google"></a>
-<a href="https://www.linkedin.com/in/mostafizur-rahaman-0698b3a6/" class="fa fa-linkedin"></a>
-<a href="#" class="fa fa-youtube"></a>
+
+<a href="https://www.linkedin.com/in/mostafizur-rahaman-0698b3a6/" class="fa fa-linkedin" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCRtH8pwmRTd-e8sEfG8rmFw/featured?view_as=subscriber" class="fa fa-youtube" target="_blank"></a>
+<a href="https://scholar.google.co.in/citations?user=_ZZbn1MAAAAJ&hl=en" class="fa fa-google" target="_blank"></a>
 <a href="#" class="fa fa-instagram"></a>
       
 </body>
