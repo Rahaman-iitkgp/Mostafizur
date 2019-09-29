@@ -88,18 +88,18 @@
   
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Skills</h3>
-<h5> Programming
+<h5> Programming</h5>
 <body>
 <p> MATLAB | Python
-<h5> OS
+<h5> OS</h5>
 <body> 
 <p> Mac | Linux | Windows | Raspbian
-<h5> Utility
+<h5> </h5>
 <body>
 <p> Latex | Office
-<h5> Design and Operation
+<h5> Design and Operation</h5>
 <body>
 <p>Vero board| PCB | Small Signal Circuits| Embedded System Integration| AWR 1642, 77 GHz Automotive Radar
-<h5>Language for Communication
+<h5>Language for Communication</h5>
 <body> 
 <p>English (Fluent)| Hindi (Verbal)| Bengali (Native)| Arabic (Writing and Reading)|
