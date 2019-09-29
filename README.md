@@ -9,13 +9,20 @@
   
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Education </h3>
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <body> 
 <p> MS (Research) Student, Indian Institute of Technology Kharagpur, WB, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
 <br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
 <br> Post Graudate Diploma in Remote sensing and GIS, Jadavpur University, WB, India, Percentage 83.1 %, [2016-2017]
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Project and Research Experience </h3>
+<body> 
+  <p> Project Title: Radar Target Modelling and Parameter Estimation: Part-I, Sponsored by Airbus Defence and Space, France
+<br>Project Title: Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications Sponsored by Qualcomm Inc., India.
+<br>Project Title: Radar Target Modelling and Parameter Estimation: Part-II, Sponsored by Airbus Defence and Space, France
+<br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India
+<br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.
+  
+  
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h4> Link to my Social Profiles</h4>
 <html>
