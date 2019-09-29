@@ -1,11 +1,14 @@
 <h2> Mostafizur Rahaman Laskar </h2>
-<h5> Master of Science (MS) Scholar at Indian Institute of Technology, Kharagpur [Jan. 2018- Jun. 2020 (Expected)]</h4>
-<h5> Chair, IEEE YP Affinity Group, Kharagpur Section [JAN. 2019 - DEC. 2019]</h5>
-<h5> Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019]</h5>
-<h5> Research Assistant (JPO/JPA), Sponsred by Airbus, France [SEP 2016 - Present]</h5>
-<h5> -------------------------------------------------------------------------------</h5>
-
-
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<body> 
+<p>Master of Science (MS) Scholar at Indian Institute of Technology, Kharagpur [Jan. 2018- Jun. 2020 (Expected)]
+<br> Chair, IEEE YP Affinity Group, Kharagpur Section [JAN. 2019 - DEC. 2019]
+<br> Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019]
+<br> Research Assistant (JPO/JPA), Sponsred by Airbus, France [SEP 2016 - Present]
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h3> Project and Research Experience </h3>
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h4>Link to my Social Profiles</h4>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,7 +51,7 @@
 </head>
 <body>
 
-<h4>Link to my Social Profiles</h4>
+
 
 <!-- Add font awesome icons -->
 
