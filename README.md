@@ -10,13 +10,10 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Education </h3>
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
-<h4> Degree
 <body> 
 <p> MS (Research) Student, Indian Institute of Technology Kharagpur, WB, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
 <br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
- <h4> PG Diploma
- <body>
- <p> Post Graudate Diploma in Remote sensing and GIS, Jadavpur University, WB, India, Percentage 83.1 %, [2016-2017]
+<br> Post Graudate Diploma in Remote sensing and GIS, Jadavpur University, WB, India, Percentage 83.1 %, [2016-2017]
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Project and Research Experience </h3>
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
