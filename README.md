@@ -54,6 +54,10 @@
       
 </body>
 </html>
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h3> Research Interest </h3>
+<body>
+  <p> Signal Processing | Convex and Non-Convex Optimization | Detection and Estimation Theory | Radar | Next-Gen Rad-Comm technology | Random Matrix Computation | Statistical Machine Learning | Quantum Signal Processing
 
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Brief </h3>
