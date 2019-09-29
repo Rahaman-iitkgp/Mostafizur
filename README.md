@@ -86,5 +86,20 @@
 <br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India [To start from Oct. 2019]
 <br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.
   
-  
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h3> Skills</h3>
+<h5> Programming
+<body>
+  <p> MATLAB 
+    <br> Python
+ <h5> OS
+   <body> 
+     <p> Mac | Linux | Windows | Raspbian
+ <h5> Utility
+   <body>
+     <p> Latex | Office
+<h5> Design and Operation
+  <body>
+    <p>Vero board| PCB | Small Signal Circuits| Embedded System Integration| AWR 1642, 77 GHz Automotive Radar
+<h5>Language for Communication
+  <body> English (Fluent)| Hindi (Verbal)| Bengali (Native)| Arabic (Writing and Reading)|
