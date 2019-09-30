@@ -116,10 +116,7 @@
 <h5>Part of MS Thesis </h5>
   <body>
     <p> Laskar, M.R. and Sen, D., 2019, April. A Classification Framework for Correlated Sample Space in Cognitive Radar. In 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Malaysia,  (pp. 1-7), IEEE. <br> 
-  <!a href = "https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s"> class=Presentation Link target="_blank"</a>
-  <br>
-  <iframe src="https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s" width="560" height="315" frameborder="0" allowfullscreen></iframe>
- </body>
+  <a href = "https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s" target="_blank"> Presentation Link</a>
       
 <h5>Term Projects</h5>
   <body>
