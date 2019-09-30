@@ -153,7 +153,7 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Reference </h3>
   <body>
-    <p>Dr. Debarati Sen, Assoc. Prof., GS, IIT Kharagpur, <a href = "mailto:debarati@gssst.iitkgp.ac.in">Send Email</a> </p>
+    <p>Dr. Debarati Sen, Assoc. Prof., GS, IIT Kharagpur, <a href = "mailto:debarati@gssst.iitkgp.ac.in">Send Email</a> 
     <br> Prof. Aurobindo Routray, Prof., EE, IIT Kharagpur, <a href = "mailto:aurobinda.routray@gmail.com">Send Email</a> 
     <br> Dr. Amit Kumar Dutta, Assist. Prof, GS, IIT Kharagpur,<a href = "mailto:amitdutta@gssst.iitkgp.ac.in">Send Email</a>  
     <br> Prof. Sibamay Dasgupta, Adjunc. Prof., WBUT, <a href = "mailto:dr.sdasgupta2010@gmail.com">Send Email</a> 
