@@ -115,7 +115,7 @@
 <h3> Publications</h3>
 <h5>Part of MS Thesis </h5>
   <body>
-    <p> Laskar, M.R. and Sen, D., 2019, April. A Classification Framework for Correlated Sample Space in Cognitive Radar. In 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Malaysia,  (pp. 1-7), IEEE. <br> <a href = "https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s"> Presentation Link target="_blank"</a>
+    <p> Laskar, M.R. and Sen, D., 2019, April. A Classification Framework for Correlated Sample Space in Cognitive Radar. In 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Malaysia,  (pp. 1-7), IEEE. <br> <a href = "https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s"> class=Presentation Link target="_blank"</a>
 <h5>Term Projects</h5>
   <body>
     <p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index</p>
