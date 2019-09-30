@@ -53,7 +53,7 @@
 <a href="https://www.linkedin.com/in/mostafizur-rahaman-0698b3a6/" class="fa fa-linkedin" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCRtH8pwmRTd-e8sEfG8rmFw/featured?view_as=subscriber" class="fa fa-youtube" target="_blank"></a>
 <a href="https://scholar.google.co.in/citations?user=_ZZbn1MAAAAJ&hl=en" class="fa fa-google" target="_blank"></a>
-<a href="#" class="fa fa-instagram"></a>
+<a href="https://www.instagram.com/most_rah/" class="fa fa-instagram" target="_blank"></a>
       
 </body>
 </html>
