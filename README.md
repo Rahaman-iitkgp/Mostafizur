@@ -74,7 +74,7 @@
 <h3> Education </h3>
 <h5> Degree </h5>
 <body> 
- <p> Visiting Research Student, Dept. of ECE, McMaster University, Canada provisionally admitted [Nov. 2019-Jan. 2020]</p>
+<p> Visiting Research Student, Dept. of ECE, McMaster University, Canada, provisionally admitted [Nov. 2019-Jan. 2020]
 <br> MS (Research) Student, Indian Institute of Technology Kharagpur, WB, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
 <br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
 <h5> Post Graduate Diploma </h5>
@@ -157,5 +157,5 @@
     <br> Prof. Aurobindo Routray, Prof., EE, IIT Kharagpur, <a href = "mailto:aurobinda.routray@gmail.com">Send Email</a> 
     <br> Dr. Amit Kumar Dutta, Assist. Prof, GS, IIT Kharagpur,<a href = "mailto:amitdutta@gssst.iitkgp.ac.in">Send Email</a>  
     <br> Prof. Sibamay Dasgupta, Adjunc. Prof., WBUT, <a href = "mailto:dr.sdasgupta2010@gmail.com">Send Email</a> 
-  </body>
+
   
