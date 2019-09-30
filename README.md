@@ -120,8 +120,7 @@
       
 <h5>Term Projects</h5>
   <body>
-    <p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index, presented at ICACCP 2019, Sikkim, India, IEEE</p>
-   <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> Presentation Link</a>
+    <p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index, presented at ICACCP 2019, Sikkim, India, IEEE. <br> <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> Presentation Link</a>
    <br> Laskar, M.R., Chatterjee, S. and Das, A., 2018. Design of an Integrated System for Modeling of Functional Air Quality Index Integrated with Health-GIS Using Bayesian Neural Network. Journal of the Indian Society of Remote Sensing, Springer, 46(6), pp.873-883. </br>
 <h5>Undergraduate level</h5>
   <body>
