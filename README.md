@@ -3,7 +3,9 @@
 <body>
 <p>C-11, Project Lab, G. S. Sanyal School of Telecommunications
 <br> Indian Institute of Technology, Kharagpur
-<br> <a href = "m.rahaman93@iitkgp.ac.in">Send Email</a></body>
+<br>
+<a href = "mailto: m.rahaman93@iitkgp.ac.in">Send Email</a>
+</br>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
