@@ -84,9 +84,13 @@
 <h3> Project and Research Experience </h3>
 <body> 
  <p> Project Title: Radar Target Modelling and Parameter Estimation: Part-I, Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]
+   
 <br>Project Title: Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications Sponsored by Qualcomm Inc., India.[Jul. 2017 - Sep. 2017]
+
 <br>Project Title: Radar Target Modelling and Parameter Estimation: Part-II, Sponsored by Airbus Defence and Space, France [Oct. 2017 - Sep. 2019]
+
 <br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India [To start from Oct. 2019]
+
 <br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.
   
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
@@ -106,3 +110,17 @@
 <h5>Language for Communication</h5>
 <body> 
 <p>English (Fluent)| Hindi (Verbal)| Bengali (Native)| Arabic (Writing and Reading)|
+  
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h3> Publications</h3>
+<h5>Part of MS Thesis </h5>
+  <body>
+    <p> Laskar, M.R. and Sen, D., 2019, April. A Classification Framework for Correlated Sample Space in Cognitive Radar. In 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Malaysia,  (pp. 1-7), IEEE.
+<h5>Term Projects</h5>
+  
+<h5>Undergraduate level</h5>
+  <body>
+    <p>Laskar, M.R., Ghosh, S., Dasgupta, S. and Kundu, D., 2017, March. Optimized bio-mems design for heart signal acquisition—A novel hardware implementation. In 2017 Devices for Integrated Circuit (DevIC) (pp. 321-325). IEEE.</p>
+      <br>Laskar, M.R., Bhattacharjee, R., Giri, M.S. and Bhattacharya, P., 2016. Weather forecasting using Arduino based cube-sat. Procedia Computer Science, Elsevier, 89, pp.320-323.</br>
+      
+  
