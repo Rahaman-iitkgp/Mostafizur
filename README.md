@@ -74,8 +74,8 @@
 <h3> Education </h3>
 <h5> Degree </h5>
 <body> 
-  
-<p> MS (Research) Student, Indian Institute of Technology Kharagpur, WB, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
+ <p> Visiting Research Student, Dept. of ECE, McMaster University, Canada provisionally admitted [Nov. 2019-Jan. 2020]</p>
+<br> MS (Research) Student, Indian Institute of Technology Kharagpur, WB, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
 <br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
 <h5> Post Graduate Diploma </h5>
 <body>
@@ -127,5 +127,35 @@
   <body>
     <p>Laskar, M.R., Ghosh, S., Dasgupta, S. and Kundu, D., 2017, March. Optimized bio-mems design for heart signal acquisition—A novel hardware implementation. In 2017 Devices for Integrated Circuit (DevIC) (pp. 321-325). IEEE.</p>
       <br>Laskar, M.R., Bhattacharjee, R., Giri, M.S. and Bhattacharya, P., 2016. Weather forecasting using Arduino based cube-sat. Procedia Computer Science, Elsevier, 89, pp.320-323.</br>
-      
+   </body>
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>      
+<h3> MOOC Courses through Edx </h3>
+<body>
+  <p>DAT236x: Deep Learning Explained | Microsoft Inc.
+<br> DL0120EN: Deep Learning with Tensor flow | IBM
+<br>DEV210x: Introduction to C++ | Microsoft Inc.
+<br>AUTONAVx: Autonomous Navigation for Flying Robots | TUM, Germany
+<br>SW47.1x: Entrepreneurship and Healthcare in Emerging Economies | Harvard University, USA
+<br> 15.390.1x: Entrepreneurship 101| MIT, USA
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h3> Awards </h3>
+  <body>
+  <p> Recipient of Institutional full travel grant for attending Best Academic Conference to travel Malaysia, worth 1.83 L INR (Approx.).
+<br> Recipient of Full tuition Fees Scholarship for undergraduate studies, worth 3.2 L INR (Approx.)
+<br>First Position in District and Third in State in Extempore Competition organized by Govt. of WB and UNICEF.
+<br>Recipient of ‘Banglar Mukh Medha Somman’, an award for highest score in Science and Mathematics in class X at Zonal level.  
+  </body>
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h3> Position </h3>
+  <body>
+  <p>Chair, IEEE YP Society, Kharagpur Section – Jan - Dec 2019</p>
+    </body>
+<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h3> Reference </h3>
+  <body>
+    <p>Dr. Debarati Sen, Assoc. Prof., GS, IIT Kharagpur, <a href = "mailto:debarati@gssst.iitkgp.ac.in">Send Email</a> </p>
+    <br> Prof. Aurobindo Routray, Prof., EE, IIT Kharagpur, <a href = "mailto:aurobinda.routray@gmail.com">Send Email</a> 
+    <br> Dr. Amit Kumar Dutta, Assist. Prof, GS, IIT Kharagpur,<a href = "mailto:amitdutta@gssst.iitkgp.ac.in">Send Email</a>  
+    <br> Prof. Sibamay Dasgupta, Adjunc. Prof., WBUT, <a href = "mailto:dr.sdasgupta2010@gmail.com">Send Email</a> 
+    </body>
   
