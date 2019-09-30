@@ -115,12 +115,13 @@
 <h3> Publications</h3>
 <h5>Part of MS Thesis </h5>
   <body>
-    <p> Laskar, M.R. and Sen, D., 2019, April. A Classification Framework for Correlated Sample Space in Cognitive Radar. In 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Malaysia,  (pp. 1-7), IEEE. <br> 
-  <a href = "https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s" target="_blank"> Presentation Link</a>
+    <p> Laskar, M.R. and Sen, D., 2019, April. A Classification Framework for Correlated Sample Space in Cognitive Radar. In 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Malaysia,  (pp. 1-7), IEEE. 
+  <a href = "https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s" target="_blank"> Presentation Link</a> </p>
       
 <h5>Term Projects</h5>
   <body>
-    <p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index, presented at ICACCP 2019, Sikkim, India, IEEE. <br> <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> Presentation Link</a>
+    <p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index, presented at ICACCP 2019, Sikkim, India, IEEE.  <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> Presentation Link</a> </p>
+      
    <br> Laskar, M.R., Chatterjee, S. and Das, A., 2018. Design of an Integrated System for Modeling of Functional Air Quality Index Integrated with Health-GIS Using Bayesian Neural Network. Journal of the Indian Society of Remote Sensing, Springer, 46(6), pp.873-883. </br>
 <h5>Undergraduate level</h5>
   <body>
