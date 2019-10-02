@@ -60,7 +60,7 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Research Interest </h3>
 <body>
-  <p> Signal Processing | Convex Optimization | Signal Detection and Estimation Theory |
+  <p> Convex Optimization | Signal Detection and Estimation Theory | Quantum Algoritms
 
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Brief </h3>
