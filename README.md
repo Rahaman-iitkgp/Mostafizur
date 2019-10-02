@@ -83,15 +83,15 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Project and Research Experience </h3>
 <body> 
- <p> Project Title: Radar Target Modelling and Parameter Estimation: Part-I, Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]</p>
+ <p> Project Title: Radar Target Modelling and Parameter Estimation: Part-I, Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]
    
-<br>Project Title: Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications Sponsored by Qualcomm Inc., India.[Jul. 2017 - Sep. 2017]</br>
+<br>Project Title: Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications Sponsored by Qualcomm Inc., India.[Jul. 2017 - Sep. 2017]
 
-<br>Project Title: Radar Target Modelling and Parameter Estimation: Part-II, Sponsored by Airbus Defence and Space, France [Oct. 2017 - Sep. 2019]</br>
+<br>Project Title: Radar Target Modelling and Parameter Estimation: Part-II, Sponsored by Airbus Defence and Space, France [Oct. 2017 - Sep. 2019]
 
-<br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India [To start from Oct. 2019]</br>
+<br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India [To start from Oct. 2019]
 
-<br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.</br>
+<br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.</p>
 </body>
   
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
