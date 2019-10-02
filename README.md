@@ -1,7 +1,7 @@
 
 <h2> Mostafizur Rahaman Laskar | IN | </h2>
 <body>
-<p>C-11, Project Lab, G. S. Sanyal School of Telecommunications, Indian Institute of Technology, Kharagpur
+<p> Project Lab, GSSST, Indian Institute of Technology, Kharagpur
 <br><a href = "mailto:m.rahaman93@iitkgp.ac.in">Send Email</a>
 <br> 
 <html>
@@ -60,22 +60,22 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Research Interest </h3>
 <body>
-  <p> Signal Processing | Convex and Dual Optimization | Detection and Estimation Theory | Radar | Random Matrix Computation | Statistical ML| Quantum Algorithms
+  <p> Signal Processing | Convex Optimization | Signal Detection and Estimation Theory |
 
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Brief </h3>
 <body> 
-<p> Master of Science (MS) Scholar at Indian Institute of Technology, Kharagpur [Jan. 2018- Jun. 2020 (Expected)]
-<br> Chair, IEEE YP Affinity Group, Kharagpur Section [JAN. 2019 - DEC. 2019]
+<p> MS student at Indian Institute of Technology, Kharagpur [Jan. 2018- Jun. 2020 (Expected)]
+<br> Chair, IEEE YP Affinity Group, Kharagpur Section, IEEE region 10 [JAN. 2019 - DEC. 2019]
 <br> Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019]
-<br> Research Assistant (JPO/JPA), Sponsred by Airbus, France [SEP 2016 - Present]
+<br> Graduate Research Assistant (JPO/JPA), Sponsred by Airbus, France [Jan 2018 - Present].
   
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Education </h3>
 <h5> Degree </h5>
 <body> 
 <p> Visiting Research Student, Dept. of ECE, McMaster University, Canada, provisionally admitted [Nov. 2019-Jan. 2020]
-<br> MS (Research) Student, Indian Institute of Technology Kharagpur, WB, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
+<br> MS (Research) Student, Indian Institute of Technology Kharagpur, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
 <br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
 <h5> Post Graduate Diploma </h5>
 <body>
@@ -83,15 +83,16 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Project and Research Experience </h3>
 <body> 
- <p> Project Title: Radar Target Modelling and Parameter Estimation: Part-I, Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]
+ <p> Project Title: Radar Target Modelling and Parameter Estimation: Part-I, Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]</p>
    
-<br>Project Title: Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications Sponsored by Qualcomm Inc., India.[Jul. 2017 - Sep. 2017]
+<br>Project Title: Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications Sponsored by Qualcomm Inc., India.[Jul. 2017 - Sep. 2017]</br>
 
-<br>Project Title: Radar Target Modelling and Parameter Estimation: Part-II, Sponsored by Airbus Defence and Space, France [Oct. 2017 - Sep. 2019]
+<br>Project Title: Radar Target Modelling and Parameter Estimation: Part-II, Sponsored by Airbus Defence and Space, France [Oct. 2017 - Sep. 2019]</br>
 
-<br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India [To start from Oct. 2019]
+<br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India [To start from Oct. 2019]</br>
 
-<br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.
+<br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.</br>
+</body>
   
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Skills</h3>
