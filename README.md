@@ -1,7 +1,7 @@
 
 <h2> Mostafizur Rahaman Laskar | IN | </h2>
 <body>
-<p> Project Lab, GSSST, Indian Institute of Technology, Kharagpur
+<p> MS student, Indian Institute of Technology, Kharagpur
 <br><a href = "mailto:m.rahaman93@iitkgp.ac.in">Send Email</a>
 <br> 
 <html>
@@ -60,40 +60,27 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Research Interest </h3>
 <body>
-  <p> Convex Optimization | Signal Detection and Estimation Theory | Quantum Algorithms
-
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
-<h3> Brief </h3>
-<body> 
-<p> MS student at Indian Institute of Technology, Kharagpur [Jan. 2018- Jun. 2020 (Expected)]
-  
-<br> Chair, IEEE YP Affinity Group, Kharagpur Section, IEEE region 10 [JAN. 2019 - DEC. 2019]
-
-<br> Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019]
-
-<br> Graduate Research Assistant (JPO/JPA), Sponsred by Airbus, France [Jan 2018 - Present].
-  
+  <p> Statistical Signal Processing | Machine Learning | Convex Optimization | 
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Education </h3>
-<h5> Degree </h5>
 <body> 
 <p> Visiting Research Student, Dept. of ECE, McMaster University, Canada, provisionally admitted [Nov. 2019-Jan. 2020]
   
 <br> MS (Research) Student, Indian Institute of Technology Kharagpur, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
   
 <br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
+</body> 
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Project and Research Experience </h3>
 <body> 
- <p> Project Title: Radar Target Modelling and Parameter Estimation: Part-I, Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]</p>
-   
-<br>Project Title: Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications Sponsored by Qualcomm Inc., India.[Jul. 2017 - Sep. 2017]
+  <p> Graduate Research Assistant, G. S. Sanyal School of Telecommunications, IIT Kharagpur, [Jan. 2018 - Jun.2020 (Expected)]
+- Research assistant, 'Radar Target Modelling and Parameter Estimation', supported by Airbus Defence and Space, France.
+    - Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019] </p>
+  
+ <br>Project Assistant, 'Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications', Sponsored by Qualcomm Inc., India. [Jul. 2017 - Sep. 2017]
+ 
+ <br> Project Assistant, 'Radar Target Modelling and Parameter Estimation', Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]
 
-<br>Project Title: Radar Target Modelling and Parameter Estimation: Part-II, Sponsored by Airbus Defence and Space, France [Oct. 2017 - Sep. 2019]
-
-<br>Project Title: Design and Implementation of Blind Equalization for Multipath Mitigation in Telemetry Link, sponsored by DRDO, Govt. of India [To start from Oct. 2019]
-
-<br>Collaborative research: Super resolution estimator design for 77 GHz AWR 1642 automotive Radar, Test Bed support and collaboration with Texas Instrument, Bangalore and Dallas.
 </body>
   
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
@@ -156,7 +143,7 @@
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Position </h3>
   <body>
-  <p>Chair, IEEE YP Society, Kharagpur Section – Jan - Dec 2019</p>
+  <p>Chair, IEEE YP Affinity Group, Kharagpur Section – Jan - Dec 2019</p>
     </body>
 <h5> --------------------------------------------------------------------------------------------------------------------</h5>
 <h3> Reference </h3>
