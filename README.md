@@ -57,11 +57,11 @@
       
 </body>
 </html>
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h5> </h5>
 <h3> Research Interest </h3>
 <body>
   <p> Statistical Signal Processing | Machine Learning | Convex Optimization | 
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h5> </h5>
 <h3> Education </h3>
 <body> 
 <p> Visiting Research Student, Dept. of ECE, McMaster University, Canada, provisionally admitted [Nov. 2019-Jan. 2020]
@@ -70,7 +70,7 @@
   
 <br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
 </body> 
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h5> </h5>
 <h3> Project and Research Experience </h3>
 <body> 
   <p> Graduate Research Assistant, G. S. Sanyal School of Telecommunications, IIT Kharagpur, [Jan. 2018 - Jun.2020 (Expected)]
@@ -83,7 +83,7 @@
 
 </body>
   
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h5> </h5>
 <h3> Skills</h3>
 <h5> Programming</h5>
 <body>
@@ -101,7 +101,7 @@
 <body> 
 <p>English (Fluent)| Hindi (Verbal)| Bengali (Native)| Arabic (Writing and Reading)|
   
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h5> </h5>
 <h3> Publications</h3>
 <h5>Part of MS Thesis </h5>
   <body>
@@ -118,8 +118,8 @@
     <p>Laskar, M.R., Ghosh, S., Dasgupta, S. and Kundu, D., 2017, March. Optimized bio-mems design for heart signal acquisition—A novel hardware implementation. In 2017 Devices for Integrated Circuit (DevIC) (pp. 321-325). IEEE.</p>
       <br>Laskar, M.R., Bhattacharjee, R., Giri, M.S. and Bhattacharya, P., 2016. Weather forecasting using Arduino based cube-sat. Procedia Computer Science, Elsevier, 89, pp.320-323.</br>
    </body>
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>      
-<h3> MOOC Courses through Edx </h3>
+<h5> </h5>    
+<h3> MOOC Courses| Edx </h3>
 <body>
   <p>DAT236x: Deep Learning Explained | Microsoft Inc.
     
@@ -132,7 +132,7 @@
 <br>SW47.1x: Entrepreneurship and Healthcare in Emerging Economies | Harvard University, USA
 
 <br> 15.390.1x: Entrepreneurship 101| MIT, USA
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h5> </h5>
 <h3> Awards </h3>
   <body>
   <p> Recipient of Institutional full travel grant for attending Best Academic Conference to travel Malaysia, worth 1.83 L INR (Approx.).</p> 
@@ -140,8 +140,8 @@
 <br>First Position in District and Third in State in Extempore Competition organized by Govt. of WB and UNICEF.
 <br>Recipient of ‘Banglar Mukh Medha Somman’, an award for highest score in Science and Mathematics in class X at Zonal level.  
   </body>
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
-<h3> Position </h3>
+<h5> </h5>
+<h3> Position of responsibility </h3>
   <body>
   <p>Chair, IEEE YP Affinity Group, Kharagpur Section – Jan - Dec 2019</p>
     </body>
