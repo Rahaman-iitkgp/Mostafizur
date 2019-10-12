@@ -145,7 +145,7 @@
   <body>
   <p>Chair, IEEE YP Affinity Group, Kharagpur Section – Jan - Dec 2019</p>
     </body>
-<h5> --------------------------------------------------------------------------------------------------------------------</h5>
+<h5> </h5>
 <h3> Reference </h3>
   <body>
     <p>Dr. Debarati Sen, Assoc. Prof., GS, IIT Kharagpur, <a href = "mailto:debarati@gssst.iitkgp.ac.in">Send Email</a> 
