@@ -66,9 +66,11 @@
 <body> 
 <p> Visiting Research Student, Dept. of ECE, McMaster University, Canada, provisionally admitted [Nov. 2019-Jan. 2020]
   
-<br> MS (Research) Student, Indian Institute of Technology Kharagpur, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Present]
+<br> MS (Research) Student, Area of Research: Signal Processing and Machine Learning, Indian Institute of Technology Kharagpur, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Jun. 2020 (Expected)]
+ 
+<br> Post Graduate Diploma in Remote Sensing and GIS, Jadavpur University, India, 83.1 % , [Aug. 2016- Jul.2017]
   
-<br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [2012- 2016]
+<br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [Aug. 2012- Jul. 2016]
 </body> 
 <h5> </h5>
 <h3> Project and Research Experience </h3>
