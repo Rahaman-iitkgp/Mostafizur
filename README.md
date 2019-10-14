@@ -112,9 +112,12 @@
       
 <h5>Term Projects</h5>
   <body>
-    <p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index, presented at ICACCP 2019, Sikkim, India, IEEE.  <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> Presentation Link</a> </p>
-      
-   <br> Laskar, M.R., Chatterjee, S. and Das, A., 2018. Design of an Integrated System for Modeling of Functional Air Quality Index Integrated with Health-GIS Using Bayesian Neural Network. Journal of the Indian Society of Remote Sensing, Springer, 46(6), pp.873-883. </br>
+<p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index, presented at ICACCP 2019, Sikkim, India, IEEE.  <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> Presentation Link</a> </p>
+  
+<br> Mostafizur R.L., Prasanta Kr. Sen, Eshita Paul, Saptargha Das, Sudipta Ghosh, 'Principal Feature Extraction from Regional Speech in Emergency Communication, presented at ICACCP 2019, Sikkim, India, IEEE.  <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> 
+
+<br> Laskar, M.R., Chatterjee, S. and Das, A., 2018. Design of an Integrated System for Modeling of Functional Air Quality Index Integrated with Health-GIS Using Bayesian Neural Network. Journal of the Indian Society of Remote Sensing, Springer, 46(6), pp.873-883. (Published as an special issue for outstanding presentation at IIRS (ISRO) National Symposium 2016 at Dehradun, India, Dec., 2016) 
+
 <h5>Undergraduate level</h5>
   <body>
     <p>Laskar, M.R., Ghosh, S., Dasgupta, S. and Kundu, D., 2017, March. Optimized bio-mems design for heart signal acquisition—A novel hardware implementation. In 2017 Devices for Integrated Circuit (DevIC) (pp. 321-325). IEEE.</p>
