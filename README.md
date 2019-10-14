@@ -66,11 +66,11 @@
 <body> 
 <p> Visiting Research Student, Dept. of ECE, McMaster University, Canada, provisionally admitted [Nov. 2019-Jan. 2020]
   
-<br> MS (Research) Student, Area of Research: Signal Processing and Machine Learning, Indian Institute of Technology Kharagpur, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Jun. 2020 (Expected)]
+<p> MS (Research) Student, Area of Research: Signal Processing and Machine Learning, Indian Institute of Technology Kharagpur, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Jun. 2020 (Expected)]<\p>
  
-<br> Post Graduate Diploma in Remote Sensing and GIS, Jadavpur University, India, 83.1 % , [Aug. 2016- Jul.2017]
+<p> Post Graduate Diploma in Remote Sensing and GIS, Jadavpur University, India, 83.1 % , [Aug. 2016- Jul.2017]<\p>
   
-<br> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [Aug. 2012- Jul. 2016]
+<p> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [Aug. 2012- Jul. 2016]<\p>
 </body> 
 <h5> </h5>
 <h3> Project and Research Experience </h3>
@@ -79,9 +79,9 @@
 - Research assistant, 'Radar Target Modelling and Parameter Estimation', supported by Airbus Defence and Space, France.
     - Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019] </p>
   
- <br>Project Assistant, 'Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications', Sponsored by Qualcomm Inc., India. [Jul. 2017 - Sep. 2017]
+ <p>Project Assistant, 'Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications', Sponsored by Qualcomm Inc., India. [Jul. 2017 - Sep. 2017]<\p>
  
- <br> Project Assistant, 'Radar Target Modelling and Parameter Estimation', Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]
+ <p> Project Assistant, 'Radar Target Modelling and Parameter Estimation', Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]<\p>
 
 </body>
   
@@ -141,9 +141,9 @@
 <h3> Awards </h3>
   <body>
   <p> Recipient of Institutional full travel grant for attending Best Academic Conference to travel Malaysia, worth 1.83 L INR (Approx.).</p> 
-<br> Recipient of Full tuition Fees Scholarship for undergraduate studies, worth 3.2 L INR (Approx.)
-<br>First Position in District and Third in State in Extempore Competition organized by Govt. of WB and UNICEF.
-<br>Recipient of ‘Banglar Mukh Medha Somman’, an award for highest score in Science and Mathematics in class X at Zonal level.  
+<p> Recipient of Full tuition Fees Scholarship for undergraduate studies, worth 3.2 L INR (Approx.)<\p>
+<p>First Position in District and Third in State in Extempore Competition organized by Govt. of WB and UNICEF.<\p>
+<p>Recipient of ‘Banglar Mukh Medha Somman’, an award for highest score in Science and Mathematics in class X at Zonal level.  <\p>
   </body>
 <h5> </h5>
 <h3> Position of responsibility </h3>
@@ -153,9 +153,9 @@
 <h5> </h5>
 <h3> Reference </h3>
   <body>
-    <p>Dr. Debarati Sen, Assoc. Prof., GS, IIT Kharagpur, <a href = "mailto:debarati@gssst.iitkgp.ac.in">Send Email</a> 
-    <br> Prof. Aurobindo Routray, Prof., EE, IIT Kharagpur, <a href = "mailto:aurobinda.routray@gmail.com">Send Email</a> 
-    <br> Dr. Amit Kumar Dutta, Assist. Prof, GS, IIT Kharagpur,<a href = "mailto:amitdutta@gssst.iitkgp.ac.in">Send Email</a>  
-    <br> Prof. Sibamay Dasgupta, Adjunc. Prof., WBUT, <a href = "mailto:dr.sdasgupta2010@gmail.com">Send Email</a> 
+    <p>Dr. Debarati Sen, Assoc. Prof., GS, IIT Kharagpur, <a href = "mailto:debarati@gssst.iitkgp.ac.in">Send Email</a>  <\p>
+    <p> Prof. Aurobindo Routray, Prof., EE, IIT Kharagpur, <a href = "mailto:aurobinda.routray@gmail.com">Send Email</a> <\p>
+    <p> Dr. Amit Kumar Dutta, Assist. Prof, GS, IIT Kharagpur,<a href = "mailto:amitdutta@gssst.iitkgp.ac.in">Send Email</a>  <\p>
+    <p> Prof. Sibamay Dasgupta, Adjunc. Prof., WBUT, <a href = "mailto:dr.sdasgupta2010@gmail.com">Send Email</a> <\p>
 
   
