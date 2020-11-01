@@ -1,8 +1,8 @@
 
 <h2> Mostafizur Rahaman Laskar | IN | </h2>
 <body>
-<p> MS student, Indian Institute of Technology, Kharagpur
-<br><a href = "mailto:m.rahaman93@iitkgp.ac.in">Send Email</a>
+<p> PhD Research Scholar, Indian Institute of Technology, Kharagpur
+<br><a href = "mailto:m.rahaman93@kgpian.iitkgp.ac.in">Send Email</a>
 <br> 
 <html>
 <head>
@@ -60,102 +60,24 @@
 <h5> </h5>
 <h3> Research Interest </h3>
 <body>
-  <p> Statistical Signal Processing | Machine Learning | Convex Optimization | 
+  <p> Quantum Signal Processing and Optimization Theory
 <h5> </h5>
 <h3> Education </h3>
 <body> 
-<p> Visiting Research Student, Dept. of ECE, McMaster University, Canada, provisionally admitted [Nov. 2019-Jan. 2020]
   
-<p> MS (Research) Student, Area of Research: Signal Processing and Machine Learning, Indian Institute of Technology Kharagpur, India, CGPA 8.44/10 <in Part A>, [Jan. 2018- Jun. 2020 (Expected)]<\p>
- 
-<p> Post Graduate Diploma in Remote Sensing and GIS, Jadavpur University, India, 83.1 % , [Aug. 2016- Jul.2017]<\p>
+<p> MS (Research),Statistical Signal Processing, Indian Institute of Technology Kharagpur, India, CGPA 9.27/10, [2018-2020]<\p>
   
-<p> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, DGPA 8.9/10, [Aug. 2012- Jul. 2016]<\p>
+<p> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, GPA 8.9/10, [2012- 2016]<\p>
 </body> 
 <h5> </h5>
 <h3> Project and Research Experience </h3>
 <body> 
   <p> Graduate Research Assistant, G. S. Sanyal School of Telecommunications, IIT Kharagpur, [Jan. 2018 - Jun.2020 (Expected)]
-- Research assistant, 'Radar Target Modelling and Parameter Estimation', supported by Airbus Defence and Space, France.
+- Research assistant, 'Radar Target Modelling and Parameter Estimation', supported by Airbus, France. 
     - Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019] </p>
   
- <p>Project Assistant, 'Blind joint equalization and detection in presence of nonlinearity and synchronization errors for millimeter wave communications', Sponsored by Qualcomm Inc., India. [Jul. 2017 - Sep. 2017]<\p>
- 
- <p> Project Assistant, 'Radar Target Modelling and Parameter Estimation', Sponsored by Airbus Defence and Space, France [Sep. 2016 - Jun.2017]<\p>
+ <p> Project Assistant, 'Radar Target Modelling and Parameter Estimation', Sponsored by Airbus, France [2016-2017]<\p>
 
 </body>
-  
-<h5> </h5>
-<h3> Skills</h3>
-<h5> Programming</h5>
-<body>
-<p> MATLAB | Python
-<h5> OS</h5>
-<body> 
-<p> Mac | Linux | Windows | Raspbian
-<h5> Utility</h5>
-<body>
-<p> Latex | Office
-<h5> Design and Operation</h5>
-<body>
-<p>Vero board| PCB | Small Signal Circuits| Embedded System Integration| AWR 1642, 77 GHz Automotive Radar
-<h5>Language for Communication</h5>
-<body> 
-<p>English (Fluent)| Hindi (Verbal)| Bengali (Native)| Arabic (Writing and Reading)|
-  
-<h5> </h5>
-<h3> Publications</h3>
-<h5>Part of MS Thesis </h5>
-  <body>
-    <p> Laskar, M.R. and Sen, D., 2019, April. A Classification Framework for Correlated Sample Space in Cognitive Radar. In 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Malaysia,  (pp. 1-7), IEEE. 
-  <a href = "https://www.youtube.com/watch?v=tUlyxQUBDWk&t=37s" target="_blank"> Presentation Link</a> </p>
-      
-<h5>Term Projects</h5>
-  <body>
-    <p>Mostafizur R.L., Prasanta Kr. Sen, Shyamal Kumar Das Mondal, An IoT-based E-Health System Integrated with Wireless Sensor Network and Air Pollution Index, presented at ICACCP 2019, Sikkim, India, IEEE.  <a href = "https://www.youtube.com/watch?v=Og8ZnG0NPt4&t=306s" target="_blank"> Presentation Link</a> </p>
-  
-   <p> Mostafizur R.L., Prasanta Kr. Sen, Eshita Paul, Saptargha Das, Sudipta Ghosh, 'Principal Feature Extraction from Regional Speech in Emergency Communication, presented at ICACCP 2019, Sikkim, India, IEEE.  </p>
-
-   <p> Laskar, M.R., Chatterjee, S. and Das, A., 2018. Design of an Integrated System for Modeling of Functional Air Quality Index Integrated with Health-GIS Using Bayesian Neural Network. Journal of the Indian Society of Remote Sensing, Springer, 46(6), pp.873-883. (Published as an special issue for outstanding presentation at IIRS (ISRO) National Symposium 2016 at Dehradun, India, Dec., 2016) </p>
-
-<h5>Undergraduate level</h5>
-  <body>
-    <p>Laskar, M.R., Ghosh, S., Dasgupta, S. and Kundu, D., 2017, March. Optimized bio-mems design for heart signal acquisition—A novel hardware implementation. In 2017 Devices for Integrated Circuit (DevIC) (pp. 321-325). IEEE.</p>
-      <p>Laskar, M.R., Bhattacharjee, R., Giri, M.S. and Bhattacharya, P., 2016. Weather forecasting using Arduino based cube-sat. Procedia Computer Science, Elsevier, 89, pp.320-323.</p>
-   </body>
-<h5> </h5>    
-<h3> MOOC Courses| Edx </h3>
-<body>
-  <p>DAT236x: Deep Learning Explained | Microsoft Inc.
-    
-<br> DL0120EN: Deep Learning with Tensor flow | IBM
-
-<br>DEV210x: Introduction to C++ | Microsoft Inc.
-
-<br>AUTONAVx: Autonomous Navigation for Flying Robots | TUM, Germany
-
-<br>SW47.1x: Entrepreneurship and Healthcare in Emerging Economies | Harvard University, USA
-
-<br> 15.390.1x: Entrepreneurship 101| MIT, USA
-<h5> </h5>
-<h3> Awards </h3>
-  <body>
-  <p> Recipient of Institutional full travel grant for attending Best Academic Conference to travel Malaysia, worth 1.83 L INR (Approx.).</p> 
-<p> Recipient of Full tuition Fees Scholarship for undergraduate studies, worth 3.2 L INR (Approx.)<\p>
-<p>First Position in District and Third in State in Extempore Competition organized by Govt. of WB and UNICEF.<\p>
-<p>Recipient of ‘Banglar Mukh Medha Somman’, an award for highest score in Science and Mathematics in class X at Zonal level.  <\p>
-  </body>
-<h5> </h5>
-<h3> Position of responsibility </h3>
-  <body>
-  <p>Chair, IEEE YP Affinity Group, Kharagpur Section – Jan - Dec 2019</p>
-    </body>
-<h5> </h5>
-<h3> Reference </h3>
-  <body>
-    <p>Dr. Debarati Sen, Assoc. Prof., GS, IIT Kharagpur, <a href = "mailto:debarati@gssst.iitkgp.ac.in">Send Email</a>  <\p>
-    <p> Prof. Aurobindo Routray, Prof., EE, IIT Kharagpur, <a href = "mailto:aurobinda.routray@gmail.com">Send Email</a> <\p>
-    <p> Dr. Amit Kumar Dutta, Assist. Prof, GS, IIT Kharagpur,<a href = "mailto:amitdutta@gssst.iitkgp.ac.in">Send Email</a>  <\p>
-    <p> Prof. Sibamay Dasgupta, Adjunc. Prof., WBUT, <a href = "mailto:dr.sdasgupta2010@gmail.com">Send Email</a> <\p>
 
   
