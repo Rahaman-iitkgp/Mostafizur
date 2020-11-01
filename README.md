@@ -65,10 +65,9 @@
 <h3> Education </h3>
 <body> 
   
-<p> MS (Research),Statistical Signal Processing, Indian Institute of Technology Kharagpur, India, CGPA 9.27/10, [2018-2020]<\p>
+<p> MS (Research),Statistical Signal Processing, Indian Institute of Technology Kharagpur, India, CGPA 9.27/10, [2018-2020]
   
-<p> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, GPA 8.9/10, [2012- 2016]<\p>
-</body> 
+<p> B.Tech in Electronics and Communication Engineering, West Bengal University of Technology, WB, India, GPA 8.9/10, [2012- 2016] 
 <h5> </h5>
 <h3> Project and Research Experience </h3>
 <body> 
@@ -76,8 +75,5 @@
 - Research assistant, 'Radar Target Modelling and Parameter Estimation', supported by Airbus, France. 
     - Teaching Assistant, Communication Hardware Lab for M.Tech 1st Year [Autumn 2019] </p>
   
- <p> Project Assistant, 'Radar Target Modelling and Parameter Estimation', Sponsored by Airbus, France [2016-2017]<\p>
-
-</body>
-
+ <p> Project Assistant, 'Radar Target Modelling and Parameter Estimation', Sponsored by Airbus, France [2016-2017]
   
